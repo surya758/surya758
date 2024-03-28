@@ -16,14 +16,14 @@
 - 💬 Ask me about **JavaScript, TypeScript, React Native, Redux, NodeJS, Go and NeoVim**
 
 <h3 align="left">Connect with me:</h3>
----
+<hr style="border-top: 3px dotted #998143">
 <p align="left">
 <a href="https://twitter.com/surya_jrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surya_jrn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/surya-kant99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya-kant99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
---- 
+<hr style="border-top: 3px dotted #998143">
 <p align="left">
 <h4 align="left">Programming Languages</h4>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
