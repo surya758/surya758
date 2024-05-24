@@ -7,7 +7,7 @@
 <a href="mailto:skant758@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-- 🔭 I’m currently a Software Developer at [College Dunia](https://collegedunia.com/)
+- 🔭 I’m currently a Software Developer at [CryptoXpress](https://cryptoxpress.com/)
 
 - 🌱 I’m currently learning **Golang and Lua**
 
