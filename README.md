@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently a Software Developer at [CryptoXpress](https://cryptoxpress.com/)
 
-- 🌱 I’m currently learning **Golang and Lua**
+- 🌱 I’m currently learning **Golang and Docker**
 
-- 🧑‍💻 I'm currently making a **Language Server** using **Go**
+- 🧑‍💻 I'm currently making a **Backend/Sraper Service** using **Express and Puppeteer**
 
 - 💬 Ask me about **JavaScript, TypeScript, React Native, Redux, NodeJS, Go and NeoVim**
 
