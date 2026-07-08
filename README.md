@@ -7,13 +7,9 @@
 <a href="mailto:skant758@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-- 🔭 I’m currently a Software Developer at [CryptoXpress](https://cryptoxpress.com/)
+- 🔭 I’m a Fullstack Developer
 
-- 🌱 I’m currently learning **Golang and Docker**
-
-- 🧑‍💻 I'm currently making a **Backend/Sraper Service** using **Express and Puppeteer**
-
-- 💬 Ask me about **JavaScript, TypeScript, React Native, Redux, NodeJS, Go and NeoVim**
+- 💬 Ask me about **JavaScript, TypeScript, React Native, Redux, NodeJS**
 
 <h3 align="left">Connect with me:</h3>
 <hr style="border-top: 3px dotted #998143">
